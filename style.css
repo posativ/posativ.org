@@ -48,6 +48,14 @@ h3 {
     border-bottom: 0;
 }
 
+#header img {
+    padding: 3px;
+    background: #eee;
+    border: 3px solid #eee;
+    border-radius: 5px;
+}
+
+
 li {
     margin-top: 0em;
 }
