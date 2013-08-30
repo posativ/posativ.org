@@ -9,10 +9,14 @@ E-Mail:
 :   <moschlar@metalabs.de>
 XMPP:
 :   [moritz_schlarb@jabber.ccc.de](xmpp:moritz_schlarb@jabber.ccc.de)
+<!--
 Address:
 :   Portlandstr. 9, 55130 Mainz, Germany
+--->
+<!---
 Mobile:
 :   +49 151 27525200
+--->
 
 Education
 ---------
@@ -63,7 +67,7 @@ Work Experience
     - Seminar on the internals of a Linux operating system based on Gentoo Linux
     - Introductory courses in C and Python
 
-### Open Source Developer
+### Open Source Development
 
 * **SAUCE** (System for Automated Code Evaluation)
 
