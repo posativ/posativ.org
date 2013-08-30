@@ -1,9 +1,9 @@
 all: resume.html resume.pdf
 
-%.html: %.md
+%.html: %.md resume.css resumeB.html resumeA.html
 	pandoc -c resume.css -B resumeB.html -A resumeA.html -o $@ $<
 
-%.pdf: %.md
+%.pdf: %.md resumeH.tex
 	pandoc -H resumeH.tex -o $@ $<
 
 clean:

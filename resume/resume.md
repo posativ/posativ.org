@@ -9,7 +9,7 @@ E-Mail:
 :   <moschlar@metalabs.de>
 XMPP:
 :   [moritz_schlarb@jabber.ccc.de](xmpp:moritz_schlarb@jabber.ccc.de)
-<!--
+<!---
 Address:
 :   Portlandstr. 9, 55130 Mainz, Germany
 --->
