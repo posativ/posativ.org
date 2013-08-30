@@ -69,7 +69,7 @@ Work Experience
 
 ### Open Source Development
 
-* **SAUCE** (System for Automated Code Evaluation)
+* **[SAUCE](https://github.com/moschlar/SAUCE)** (System for Automated Code Evaluation)
 
     I created the SAUCE E-Learning software as a practical project for my bachelor thesis and released its source code under an open source license.
 
