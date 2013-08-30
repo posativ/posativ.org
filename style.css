@@ -10,9 +10,6 @@ body {
     float: right;
     text-align: right;
 }
-#header .author {
-    display: none;
-}
 
 #container {
     margin: auto;
@@ -29,16 +26,17 @@ a:hover {
 }
 
 h1 {
-    margin-top: 0;
+    margin-top: 1em;
 }
 h2 {
-    margin-top: 0;
+    margin-top: 1em;
     padding-top: 0.5em;
     border-top: 5px solid #ddd;
     padding-bottom: 0.5em;
     border-bottom: 5px solid #ddd;
 }
 h3 {
+    margin-top: 1em;
     padding-bottom: 0.5em;
     border-bottom: 5px solid #eee;
 }
