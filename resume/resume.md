@@ -37,22 +37,22 @@ Title of bachelor thesis: "SAUCE - A System for Automated Code Evaluation"
 
 *   **October 2009 - March 2010**
 
-    Fernuniversität Hagen, Germany
+    FernUniversität Hagen, Germany
 
-Work Experience
+Practical Experience
 ---------------
 
-### Data Center, Johannes Gutenberg-Universität Mainz, Germany
+### Data Center, Johannes Gutenberg University Mainz, Germany
 
 *   **January 2011 - Present**, Student Assistant
 
-    High Performance Computing group at the University's data center:
+    High Performance Computing Group at the university's data center:
 
-    - Assisting in the administration of the 500+-node Linux cluster
+    - Assisting in the administration of the 500+ node Linux cluster Mogon
     - Building, installing and deploying scientific software
-    - Supporting the end users
+    - End user support
 
-### Institute of Computer Science, Johannes Gutenberg-Universität Mainz, Germany
+### Institute of Computer Science, Johannes Gutenberg University Mainz, Germany
 
 *   **May 2013 - Current**, Student Assistant
 
@@ -60,7 +60,7 @@ Work Experience
 
 *   **April 2011 - February 2013 (intermittent)**, Student Assistant
 
-    Teaching assistant:
+    Preparing and holding courses in:
 
     - Programming Languages
     - Data Structures and Efficient Algorithms
