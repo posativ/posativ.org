@@ -1,6 +1,6 @@
 % Résumé
 % Moritz Schlarb
-% 30 August 2013
+% 2013-09-03
 
 Moritz Schlarb
 ==============
