@@ -60,7 +60,7 @@ Practical Experience
 
 *   **April 2011 - February 2013 (intermittent)**, Student Assistant
 
-    Preparing and holding courses in:
+    Teaching assistant in:
 
     - Programming Languages
     - Data Structures and Efficient Algorithms
