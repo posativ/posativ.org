@@ -19,10 +19,11 @@ body {
 
 a, a:visited {
     text-decoration: none;
-    color: #669;
+    color: #FF3300;
 }
 a:hover {
     text-decoration: underline;
+    color: #FF9900;
 }
 
 h2, h3, p {
