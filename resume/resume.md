@@ -1,89 +1,55 @@
 % Résumé
-% Moritz Schlarb
-% 2013-09-03
+% Martin Zimmermann
 
-Moritz Schlarb
-==============
+Martin Zimmermann
+=================
 
 E-Mail:
-:   <moschlar@metalabs.de>
+:   `0E87FE5C` – <info@posativ.org>
 XMPP:
-:   [moritz_schlarb@jabber.ccc.de](xmpp:moritz_schlarb@jabber.ccc.de)
+:   `E67FEAF5 FC2F3C09 165F0FB8 35D86BEF 2C2255B7` – [posativ@jabber.ccc.de](xmpp:posativ@jabber.ccc.de)  
+    `14F951F7 92290619 5163DD61 22F50983 C6036D87` – [info@posativ.org](xmpp:info@posativ.org)  
+
 <!---
 Address:
-:   Portlandstr. 9, 55130 Mainz, Germany
+:   ...
 --->
 <!---
 Mobile:
-:   +49 151 27525200
+:   +...
 --->
 
 Education
 ---------
 
-### Computer Science, M. Sc.
+### Bioinformatics, B. Sc.
 
-*   **April 2013 - Present**
+*   **October 2010 - Present**
 
-    Technische Universität Darmstadt, Germany
-
-### Computer Science, B. Sc.
-
-Title of bachelor thesis: "SAUCE - A System for Automated Code Evaluation"
-
-*   **April 2010 - January 2013**
-
-    Johannes Gutenberg-Universität Mainz, Germany
-
-*   **October 2009 - March 2010**
-
-    FernUniversität Hagen, Germany
+    Friedrich-Schiller-Universität Jena, Germany
 
 Practical Experience
 ---------------
 
-### Data Center, Johannes Gutenberg-Universität Mainz, Germany
+*   **April 2011 - December 2012**, Student Assistant
 
-*   **January 2011 - Present**, Student Assistant
+    Network and Computer Systems Administrator at the microbiology and genetic facility
 
-    High Performance Computing group at the university's data center:
-
-    - Assisting in the administration of the 500+ node Linux cluster
-    - Building, installation and deployment of scientific software
-    - End user support
-
-### Institute of Computer Science, Johannes Gutenberg-Universität Mainz, Germany
-
-*   **May 2013 - Current**, Student Assistant
-
-    Maintenance and development of the SAUCE E-Learning software
-
-*   **April 2011 - February 2013 (intermittent)**, Student Assistant
-
-    Teaching assistant in:
-
-    - Programming Languages
-    - Data Structures and Efficient Algorithms
-    - Seminar on the internals of a Linux operating system based on Gentoo Linux
-    - Introductory courses in C and Python
+    - Managing 40+ computers and laboratory equipment
+    - data redundancy via AFS and SMB
+    - Building, installation and deployment of bioinformatic related software
 
 ### Open Source Development
 
-* **[SAUCE](https://github.com/moschlar/SAUCE)** (System for Automated Code Evaluation)
+* **[weave-minimal](https://github.com/posativ/weave-minimal)** (a lightweight firefox sync server)
 
-    I created the SAUCE E-Learning software as a practical project for my bachelor thesis and released its source code under an open source license.
+* **[Acrylamid](https://github.com/posativ/acrylamid)** (static blog compiler)
 
-    > "SAUCE is a language-independent, web-based automated assessment tool for programming assignments in practical programming courses within academic environments like universities and schools."
+* **[regenwolken](https://github.com/posativ/regenwolken)** (CloudApp server backend)
 
 * **Contributions**
 
     I (ir)regularly contribute(d) code to:
 
-    - [Noodle NG](https://code.google.com/p/noodle-ng/) (A web search engine for local smb/cifs network shares. - Python)
-    - [TurboGears](http://turbogears.org/) (MVC web framework - Python)
-    - [ToscaWidgets](http://toscawidgets.org/) (Web widget framework - Python)
-    - [Sprox](https://bitbucket.org/percious/sprox/) (CRUD scaffold framework - Python)
-    - [Acrylamid](http://posativ.org/acrylamid/) (Static blog compiler - Python)
-    - [Seriesly](https://github.com/stefanw/seriesly) (TV show notification service - Python)
-    - [Reposado](https://github.com/wdas/reposado) (Apple Software Update service - Python)
-    - [Gentoo Linux](http://www.gentoo.org/) (Ebuilds - Bash)
+    - [Klaus](https://github.com/jonashaag/klaus) (a simple Git web viewer that Just Works™ – Python)
+    - [octogit](https://github.com/myusuf3/octogit) (GitHub CLI – Python)
