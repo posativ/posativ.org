@@ -5,19 +5,13 @@ Martin Zimmermann
 =================
 
 E-Mail:
-:   `0E87FE5C` – <info@posativ.org>
-XMPP:
-:   `E67FEAF5 FC2F3C09 165F0FB8 35D86BEF 2C2255B7` – [posativ@jabber.ccc.de](xmpp:posativ@jabber.ccc.de)  
-    `14F951F7 92290619 5163DD61 22F50983 C6036D87` – [info@posativ.org](xmpp:info@posativ.org)  
+:   <m.zimmermann@uni-jena.de> `7757 B21C 0C6E 5AE4 BC6F  6462 FD1B A15E 0E87 FE5C`
 
-<!---
 Address:
-:   ...
---->
-<!---
+:   Friedrich-Körner-Str. 5, 07745 Jena, Germany
+
 Mobile:
-:   +...
---->
+:   +49 163 6310613
 
 Education
 ---------
@@ -41,11 +35,13 @@ Practical Experience
 
 ### Open Source Development
 
-* **[weave-minimal](https://github.com/posativ/weave-minimal)** (a lightweight firefox sync server)
+* **[Isso](https://github.com/posativ/isso)** (self-hosted Disqus – Python+JavaScript)
 
-* **[Acrylamid](https://github.com/posativ/acrylamid)** (static blog compiler)
+* **[weave-minimal](https://github.com/posativ/weave-minimal)** (a lightweight firefox sync server – Python)
 
-* **[regenwolken](https://github.com/posativ/regenwolken)** (CloudApp server backend)
+* **[Acrylamid](https://github.com/posativ/acrylamid)** (static blog compiler – Python)
+
+* **[regenwolken](https://github.com/posativ/regenwolken)** (CloudApp server backend – Python)
 
 * **Contributions**
 
